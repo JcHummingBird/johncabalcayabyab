@@ -1,0 +1,54 @@
+<!DOCTYPE html>
+<html>
+<title>W3.CSS</title>
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<link rel="stylesheet" href="https://www.w3schools.com/w3css/4/w3.css">
+
+
+<body class=w3-black>
+
+
+<div class="w3-bar w3-padding-16 w3-grey">
+  <a href="#" class="w3-bar-item w3-right w3-button w3-mobile">Viewpoint Charity</a>
+  <a href="#" class="w3-bar-item w3-right w3-button w3-mobile">Portfolio</a>
+  <a href="#" class="w3-bar-item w3-right w3-button w3-mobile">Contact</a>
+  <a href="#" class="w3-bar-item w3-right w3-button w3-mobile">Photos</a>
+  <a href="#" class="w3-bar-item w3-right w3-button w3-mobile">Home</a>
+</div>
+
+
+<div class="w3-container w3-dark-grey">
+<h3 class="w3-opacity">BIOGRAPHY</h3>
+</div>
+
+<!--remove w3-border so that there is no visible line -->
+<div class="w3-row">
+  <div class="w3-container w3-half">
+    <img src="https://scontent.xx.fbcdn.net/v/t1.15752-9/243562008_564890764837177_5243245672528415788_n.jpg?_nc_cat=106&ccb=1-5&_nc_sid=aee45a&_nc_ohc=X0vPKXCX7RwAX80dVTX&_nc_ad=z-m&_nc_cid=0&_nc_ht=scontent.xx&oh=66ad42bf0945b8760bd9fad5aaf22445&oe=617EB709" 
+class="w3-circle w3-margin-left" alt="Norway" style="width:50%">
+<!--to occupy the entire space, set img width to 100% -->
+<!--to use w3-panel to add 16px top and bottom margin and 16px left and right padding-->
+<!--w3-margin-left to move the image to the right-->
+
+  </div>
+  <div class="w3-container w3-half">
+    <h2 class="w3-opacity">w3-half</h2>  
+        <h2 class="w3-opacity">Text Opacity</h2>
+
+        <p class="w3-opacity">The w3-half class uses 50% of the parent container.<br>
+    On screens smaller than 601 pixels it resizes to 100%. On screens smaller than 601 pixels it resizes to 100%.<br>
+    The w3-half class uses 50% of the parent container.The w3-half class uses 50% of the parent container.<br>
+    On screens smaller than 601 pixels it resizes to 100%. On screens smaller than 601 pixels it resizes to 100%.<br>
+    The w3-half class uses 50% of the parent container. The w3-half class uses 50% of the parent container.<br>
+    On screens smaller than 601 pixels it resizes to 100%. On screens smaller than 601 pixels it resizes to 100%.<br>
+    On screens smaller than 601 pixels it resizes to 100%. On screens smaller than 601 pixels it resizes to 100%.<br>
+    On screens smaller than 601 pixels it resizes to 100%. On screens smaller than 601 pixels it resizes to 100%.<br>
+    On screens smaller than 601 pixels it resizes to 100%. On screens smaller than 601 pixels it resizes to 100%.<br>
+    On screens smaller than 601 pixels it resizes to 100%. On screens smaller than 601 pixels it resizes to 100%.</p>
+      
+  </div>
+</div>
+
+
+</body>
+</html>       

@@ -1,0 +1,21 @@
+a {
+	text-decoration: none;
+}
+
+body, h1, h2, h3, h4, h5, h6 {
+	font-size: 1.1667em;
+	font-family: Verdana, Geneva, Arial, Helvetica sans-serif;
+	text-align: justify;
+    padding-left: 5pt;
+    padding-right: 5pt;
+    padding-top: 5pt;
+}
+
+.fa1 {
+	padding-top: 30pt;
+}
+
+.w3-top {
+	font-size: 12pt;
+	color: 1C658C;
+}

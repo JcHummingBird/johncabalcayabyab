@@ -1,0 +1,41 @@
+body
+{
+	box-sizing: border-box;
+}
+
+a {
+	text-decoration: none;
+}
+
+body, h1, h2, h3, h4, h5, h6 {
+	box-sizing: border-box;
+	font-family: Futura,Trebuchet MS,Arial,sans-serif; 
+	font-size: 1.1667em;
+	line-height: 30px;
+	text-align: justify;
+    padding-left: 5pt;
+    padding-right: 5pt;
+    padding-top: 5pt;
+}
+
+.fa1 {
+	padding-top: 100pt;
+}
+
+.fa {
+	color: #1C658C;
+}
+
+.w3-top {
+	font-size: 14pt;
+	background-color: #00A19D;
+		
+}
+
+footer {
+	background-color: #5D5B6A;
+	line-height: 20px;
+}
+
+
+

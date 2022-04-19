@@ -4,7 +4,8 @@ body
 }
 
 a {
-	text-decoration: none;
+	color: blue;
+	text-decoration: underline;
 }
 
 body, h1, h2, h3, h4, h5, h6 {
@@ -36,8 +37,6 @@ footer {
 	background-color: #5D5B6A;
 	line-height: 20px;
 }
-
-
 
 
 

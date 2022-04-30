@@ -1,3 +1,3 @@
-function myFunction() {
+function myGreetings() {
   alert("Welcome to my website!");
 }

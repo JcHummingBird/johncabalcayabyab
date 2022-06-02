@@ -1,6 +1,10 @@
-body
-{
-	box-sizing: border-box;
+html {
+	margin-right: 5pt;
+}
+
+
+body {
+	box-sizing: border-box;;
 }
 
 a {
@@ -30,6 +34,7 @@ body, h1, h2, h3, h4, h5, h6 {
 .w3-top {
 	font-size: 16pt;
 	background-color: #73777B;
+	margin: 0px;
 		
 }
 

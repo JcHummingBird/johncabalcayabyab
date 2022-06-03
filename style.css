@@ -1,5 +1,5 @@
 html {
-	margin-right: 5pt;
+	margin-right: 3pt;
 }
 
 
@@ -20,7 +20,7 @@ body, h1, h2, h3, h4, h5, h6 {
 	text-align: justify;
     padding-left: 5pt;
     padding-right: 5pt;
-    padding-top: 5pt;
+    padding-top: 5pt;	
 }
 
 .fa1 {
@@ -32,7 +32,7 @@ body, h1, h2, h3, h4, h5, h6 {
 }
 
 .w3-top {
-	font-size: 16pt;
+	font-size: 12pt;
 	background-color: #73777B;
 	margin: 0px;
 		

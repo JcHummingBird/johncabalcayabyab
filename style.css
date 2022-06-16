@@ -35,6 +35,7 @@ body, h1, h2, h3, h4, h5, h6 {
 	font-size: 12pt;
 	background-color: #73777B;
 	margin: 0px;
+	color: black;
 		
 }
 
@@ -43,6 +44,9 @@ footer {
 	line-height: 20px;
 }
 
+#cite-1 {
+	font-size: 20pt;
+}
 
 
 

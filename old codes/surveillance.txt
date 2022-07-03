@@ -1,45 +1,46 @@
 <!DOCTYPE html>
-<html>
+<html lang="en-us">
 <head>
-<title>John Cabal Cayabyab</title>
-<meta charset="UTF-8">
-<meta name="viewport" content="width=device-width, initial-scale=1">
-<link rel="stylesheet" href="https://www.w3schools.com/w3css/4/w3.css">
-<link rel="stylesheet" href="style.css">
-<link rel="stylesheet" href="https://www.w3schools.com/lib/w3-colors-vivid.css">
-<link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Raleway">
-<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
-<link rel="stylesheet" href="https://www.w3schools.com/lib/w3-theme-black.css">
-<style>
-body,h1 {font-family: "Raleway", Arial, sans-serif}
-h1 {letter-spacing: 6px}
-.w3-row-padding img {margin-bottom: 12px}
-</style>
+    <meta charset="utf-8">
+    <title>Surveillance Specialist and Web Developer</title>
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="https://www.w3schools.com/w3css/4/w3.css">
+    <link rel="stylesheet" href="style.css">
+    <link rel="stylesheet" href="https://www.w3schools.com/lib/w3-colors-vivid.css">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css"> 
 </head>
 
 
-<body>
-
-<!-- Header -->
-<header class="w3-panel w3-center" style="padding:128px 16px">
-  <h2 class="w3-center">SURVEILLANCE SPECIALIST and I.T. ENTHUSIAST</h2>
-  <h1 class="w3-xlarge w3-center">John Cabal Cayabyab</h1>
-  
-  <div class="w3-padding-32">
-    <div class="w3-bar w3-border">
-      <a href="home.html" class="w3-bar-item w3-button">Home</a>
-      <a href="#" class="w3-bar-item w3-button w3-light-grey">Portfolio</a>
-      <a href="#" class="w3-bar-item w3-button">Contact</a>
-      <a href="surveillance.html" class="w3-bar-item w3-button w3-hide-small">Surveillance</a>
-      <a href="#" class="w3-bar-item w3-button w3-hide-small">Giving and Advocacy</a>
-    </div>
-  </div>
-</header>
+<body div class="w3-black">
 
 
+  <div class="w3-container w3-top w3-bar w3-padding-16">
+    <a href="advocacy.html" class="w3-bar-item w3-right w3-button w3-mobile">ABOUT ME 1</a>
+     <a href="portfolio.html" class="w3-bar-item w3-right w3-button w3-mobile">PORTFOLIO</a>
+    <a href="contact.html" class="w3-bar-item w3-right w3-button w3-mobile">CONTACT</a>
+    <a href="surveillance.html" class="w3-bar-item w3-right w3-button w3-mobile">
+    SURVEILLANCE</a>
+    <a href="charity.html" class="w3-bar-item w3-right w3-button w3-mobile">GIVING AND ADVOCACY</a>
+    <a href="index.html" class="w3-bar-item w3-button w3-mobile">ABOUT ME</a>   
+</div>
+<br><br><br>
 
-<!-- !PAGE CONTENT! -->
-<div class="w3-content" style="max-width:1000px">
+
+<div class="fa1 w3-large w3-wide w3-right w3-margin-right">
+    <a href="https://www.facebook.com/JCjohn.cabal.cayabyab.1970" class="fa fa-facebook" target="_blank"></a>
+    <a href="https://mobile.twitter.com/JCJohn94258793" class="fa fa-twitter" target="_blank"></a>
+    <a href="https://www.linkedin.com/in/john-cayabyab-91b35448/?originalSubdomain=sg" class="fa fa-linkedin" target="_blank"></a>
+    <a href="https://www.instagram.com/johnccayabyab/" class="fa fa-instagram" target="_blank"></a>
+     <a href="mailto:jccayabyab@gmail.com"><i class="fa fa-envelope" aria-hidden="true"></i></a>
+ </div>
+
+
+ <div class="w3-container w3-padding-48">
+  <h3 class="w3-wide w3-animate-left">SURVEILLANCE INTEGRATED RESORTS <br>Casino, Hotel, MICE(Meetings, Incentives, Conferences and Exhibitions), Retail, Others</h3><br><br>
+
+
+
+  <div class="w3-container w3-padding-48 w3-opacity">
     <h4 style="text-decoration: underline;">Training Before Getting Onboard</h4>
       <p"> Pre-employment training should meet the requirements of gaming regulators in any jurisdiction, if any, and should reflect the needs of the company and the prospective employee.<br> 
       The selection process for prospective employees is critical. <br>
@@ -121,48 +122,18 @@ h1 {letter-spacing: 6px}
     vivid narration of the event. I was caught off guard when he told me I will just view the footage inside the CCTV
     viewing room because he said and I quote, "my story is too long". That is the statement I wanted to hear from him for a long time, and next time he is just as detailed as me, I will remind him to be more brief and concise, if that is the
     reasonable thing to do.</p>
-
-<!-- Photo Grid -->
-<div class="w3-row-padding w3-grayscale" style="margin-bottom:128px">
-  <div class="w3-half">
-    <img src="/w3images/rocks.jpg" style="width:100%">
-    <img src="/w3images/falls2.jpg" style="width:100%">
-    <img src="/w3images/paris.jpg" style="width:100%">
-    <img src="/w3images/nature.jpg" style="width:100%">
-    <img src="/w3images/mist.jpg" style="width:100%">
-    <img src="/w3images/paris.jpg" style="width:100%">
-  </div>
-
-  <div class="w3-half">
-    <img src="/w3images/underwater.jpg" style="width:100%">
-    <img src="/w3images/ocean.jpg" style="width:100%">
-    <img src="/w3images/wedding.jpg" style="width:100%">
-    <img src="/w3images/mountainskies.jpg" style="width:100%">
-    <img src="/w3images/rocks.jpg" style="width:100%">
-    <img src="/w3images/underwater.jpg" style="width:100%">
   </div>
 </div>
-  
-<!-- End Page Content -->
-</div>
 
-<!-- Footer -->
-<footer class="w3-container w3-padding-64 w3-light-grey w3-center w3-large"> 
-  <a href="https://www.facebook.com/JCjohn.cabal.cayabyab.1970" class="fa fa-facebook" target="_blank"></a>
-  <a href="https://mobile.twitter.com/JCJohn94258793" class="fa fa-twitter" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/john-cayabyab-91b35448/?originalSubdomain=sg" class="fa fa-linkedin" target="_blank"></a>
-  <a href="https://www.instagram.com/johnccayabyab/" class="fa fa-instagram" target="_blank"></a>
-   <a href="mailto:jccayabyab@gmail.com"><i class="fa fa-envelope" aria-hidden="true"></i></a><br>
-  
 
+<footer class="w3-container w3-padding-64 w3-center w3-text-white">
   <p class="w3-medium">Copyright &copy 2022 John Cabal Cayabyab.<br> 
     All rights reserved. Use with permission.<br>
   Disclaimer: The information on this website is for general informational purposes only. This website makes no representation or warranty, express or implied.</p>
 </footer>
 
 
+<script src="index.js"></script>
 
 </body>
-</html>
-
-
+</html>       

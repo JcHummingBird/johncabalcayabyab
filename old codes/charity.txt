@@ -19,13 +19,12 @@
   <a href="charity.html" class="w3-bar-item w3-right w3-button w3-mobile">GIVING</a>
   <a href="portfolio.html" class="w3-bar-item w3-right w3-button w3-mobile">PORTFOLIO</a>
   <a href="contact.html" class="w3-bar-item w3-right w3-button w3-mobile">CONTACT</a>
-  <a href="surveillance.html" class="w3-bar-item w3-right w3-button w3-mobile">
-    SURVEILLANCE</a>
+
   <a href="advocacy.html" class="w3-bar-item w3-right w3-button w3-mobile">ADVOCACY</a>
 </div>
 <br><br><br>
 
-
+s
  <div class="fa1 w3-large w3-wide w3-right w3-margin-right">
   <a href="https://www.facebook.com/JCjohn.cabal.cayabyab.1970" class="fa fa-facebook" target="_blank"></a>
   <a href="https://mobile.twitter.com/JCJohn94258793" class="fa fa-twitter" target="_blank"></a>

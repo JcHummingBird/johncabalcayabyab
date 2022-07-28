@@ -20,6 +20,11 @@ function topFunction() {
   document.documentElement.scrollTop = 0;
 }
 
+$(document).ready(function(){
+    $("#Greet").hide(2000);
+    $("#Greet").css("color", "#0078AA");
+});
+
 
 
 

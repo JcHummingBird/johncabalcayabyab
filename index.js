@@ -23,11 +23,11 @@ function topFunction() {
 $(document).ready(function(){
     $("#Greet").hide(3000);
     /*$("#Greet").css("color", "#0078AA");*/
+    $("#Greet").css("color", "#1F4690");
 });
 
-$(document).ready(function(){
-    $("#Greet").css("color", "#1F4690");
-  });
+
+ 
 
 
 

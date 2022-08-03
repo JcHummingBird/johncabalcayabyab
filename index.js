@@ -21,10 +21,12 @@ function topFunction() {
 }
 
 $(document).ready(function(){
-    $("#Greet").hide(3000);
-    /*$("#Greet").css("color", "#0078AA");*/
+    $("#Greet").hide(5000);
+    $("#Greet").css("fontSize", "36px");
     $("#Greet").css("color", "#1F4690");
 });
+
+
 
 
  

@@ -26,6 +26,15 @@ $(document).ready(function(){
     $("#Greet").css("color", "#1F4690");
 });
 
+$(document).ready(function(){
+  $("#myInput").on("keyup", function() {
+    var value = $(this).val().toLowerCase();
+    $("#divfltr *").filter(function() {
+      $(this).toggle($(this).text().toLowerCase().indexOf(value) > -1)
+    });
+  });
+});
+
 
 
 

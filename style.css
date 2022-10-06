@@ -22,7 +22,6 @@ body, h1, h2, h3, h4, h5, h6 {
 	text-align: justify;
     padding-left: 5pt;
     padding-right: 5pt;
-    padding-top: 5pt;	
 }
 
 .fa1 {
@@ -55,6 +54,11 @@ footer {
 
 #navMain {
 	text-transform: uppercase;
+	padding-top: 5pt;	
+}
+
+#navMain2 {
+	 transition: 2.5s;
 }
 
 #myBtn {

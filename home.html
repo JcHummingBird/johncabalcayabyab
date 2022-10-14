@@ -10,6 +10,17 @@
 <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Raleway">
 <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
 <link rel="stylesheet" href="https://www.w3schools.com/lib/w3-theme-black.css">
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.6.0/jquery.min.js"></script>
+<script>
+$(document).ready(function(){
+  $("#myInput").on("keyup", function() {
+    var value = $(this).val().toLowerCase();
+    $("#myDIV *").filter(function() {
+      $(this).toggle($(this).text().toLowerCase().indexOf(value) > -1)
+    });
+  });
+});
+</script>
 </head>
 
 
@@ -23,7 +34,6 @@
   SURVEILLANCE SPECIALIST and I.T. ENTHUSIAST<br>
   BA in ECONOMICS, ADAMSON UNIVERSITY</p>
 
-  
   <div class="w3-padding-32">
     <div class="w3-top">
     <div class="w3-bar w3-border" id="navMain">
@@ -36,6 +46,9 @@
   </div>
 </header>
 
+<input id="myInput" type="text" placeholder="Search..">
+
+<div id="myDIV">
 <div class="w3-content"  style="max-width:1000px">
 <p id="Greet">THANK YOU FOR VISITING MY WEBSITE!</p>
 </div>
@@ -74,8 +87,10 @@ I studied in Adamson University Manila, Philippines with a degree in Bachelor of
     <img src="/w3images/underwater.jpg" style="width:85%">
   </div>
 </div>
+</div>
   
 <!-- End Page Content -->
+</div>
 </div>
 
 <!-- Footer -->

@@ -44,9 +44,6 @@ document.getElementById("firstproj").innerHTML = "Project Number 1"
 
 
 
-
-
-
  
 
 

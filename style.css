@@ -61,6 +61,10 @@ footer {
 	 transition: 2.5s;
 }
 
+#navMain3 {
+	 transition: 2.5s;
+}
+
 #myBtn {
   display: none;
   position: fixed;

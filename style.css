@@ -95,10 +95,13 @@ h1 {letter-spacing: 6px};
 
 #Greet {
 	padding-down: 100px;	
+	color: blue;
 }
 
 
-
+/*a {
+	color: blue;
+}
 
 
 

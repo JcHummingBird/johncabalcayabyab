@@ -38,6 +38,8 @@ $(document).ready(function(){
 
 document.getElementById("firstproj").innerHTML = "Project Number 1"
 
+document.getElementById("secondproj").innerHTML = "Project Number 2"
+
 
 
 

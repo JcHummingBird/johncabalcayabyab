@@ -4,6 +4,9 @@ html {
 
 
 body {
+	  background-image: url("C:\Users\User\OneDrive\Desktop\Bio\images\myProfilePic2.jpg");
+  background-repeat: no-repeat;
+  background-attachment: fixed;
 	box-sizing: border-box;
 	display: block;
 	margin: 0px;

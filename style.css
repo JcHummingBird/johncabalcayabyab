@@ -137,3 +137,7 @@ h1 {letter-spacing: 6px};
 body {
 	background-color: rgb(243, 238, 234);
 }
+
+header:hover {
+   color: rgb(70, 130, 180);
+}

@@ -40,6 +40,9 @@ document.getElementById("firstproj").innerHTML = "Project Number 1"
 
 document.getElementById("secondproj").innerHTML = "Project Number 2"
 
+document.getElementById("thirdproj").innerHTML = "Project Number 3"
+
+
 
 
 

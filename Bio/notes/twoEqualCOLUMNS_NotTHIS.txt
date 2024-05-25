@@ -1,0 +1,37 @@
+Two equal columns - this one
+
+
+<!DOCTYPE html>
+<html>
+<title>W3.CSS</title>
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<link rel="stylesheet" href="https://www.w3schools.com/w3css/4/w3.css">
+<body>
+
+<div class="w3-container">
+  <h2>Two Equal Columns</h2>
+  <p>Two equal-width columns (50%/50%) on all screen sizes:</p>
+</div>
+
+<div class="w3-row">
+  <div class="w3-col s6 w3-green w3-center">
+    <img src="https://scontent.xx.fbcdn.net/v/t1.15752-9/243691287_1308258466276963_4600608083860932149_n.jpg?_nc_cat=110&ccb=1-5&_nc_sid=aee45a&_nc_ohc=plLuJvDAuGQAX8BXLBR&_nc_ad=z-m&_nc_cid=0&_nc_ht=scontent.xx&oh=200bc33931231b2db9f001ff9e862a8a&oe=617F5552" class="w3-circle" alt="Norway" style="width:50%">
+  </div>
+  <div class="w3-col s6 w3-dark-grey w3-center">
+    <p>s6</p>
+    <p>s6</p>
+    <p>s6</p>
+    <p>s6</p>
+    <p>s6</p>
+    <p>s6</p>
+    <p>s6</p>
+    <p>s6</p>
+    <p>s6</p>
+    <p>s6</p>
+  </div>
+</div>
+
+
+
+</body>
+</html>

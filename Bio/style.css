@@ -1,0 +1,153 @@
+/*:root {
+	--main-text-color: #000015;
+}*/
+
+
+
+html {
+	margin-right: 10pt;
+}
+
+
+body {
+ background-image: url("C:\Users\User\OneDrive\Desktop\Bio\images\myProfilePic2.jpg");
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+	box-sizing: border-box;
+	display: block;
+	margin: 0px;
+}
+
+a {
+	color: grey;
+	text-decoration: none;
+}
+
+body, h1, h2, h3, h4, h5, h6 {
+	box-sizing: border-box;
+	font-family: Futura,Trebuchet MS,Arial,sans-serif; 
+	font-size: 1.1667em;
+	line-height: 30px;
+	text-align: justify;
+    padding-left: 5pt;
+    padding-right: 5pt;
+}
+
+.fa1 {
+	padding-top: 30pt;
+}
+
+/*
+.fa {
+	color: #FFFFFF;
+}
+
+
+.w3-top {
+	font-size: 12pt;
+	background-color: #73777B;
+	margin: 0px;
+	color: white;
+		
+}
+*/
+
+footer {
+	background-color: #5D5B6A;
+	line-height: 20px;
+}
+
+#cite-1 {
+	font-size: 20pt;
+}
+
+#navMain {
+	text-transform: uppercase;
+	padding-top: 5pt;	
+}
+
+#navMain2 {
+	 transition: 2.5s;
+}
+
+#navMain3 {
+	 transition: 2.5s;
+}
+
+#myBtn {
+  display: none;
+  position: fixed;
+  bottom: 20px;
+  right: 30px;
+  z-index: 99;
+  font-size: 25px;
+  border: none;
+  outline: none;
+  background-color: #0078AA;
+  color: white;
+  cursor: pointer;
+  padding: 10px;
+  border-radius: 50%;
+  width: 50px;
+  height: 50px;
+}
+
+#myBtn:hover {
+  background-color: #555;
+}
+
+body,h1 {font-family: "Raleway", Arial, sans-serif};
+
+h1 {letter-spacing: 6px};
+
+.w3-row-padding img {margin-bottom: 12px};
+
+#Greet {
+	padding-down: 100px;	
+	color: blue;
+}
+
+
+/*a {
+	color: blue;
+}
+*/
+
+
+.map-responsive{
+
+    overflow:hidden;
+
+    padding-bottom:20%;
+
+    position:relative;
+
+    height:0;
+
+}
+
+.map-responsive iframe{
+
+    left:0;
+
+    top:0;
+
+    height:100%;
+
+    width:100%;
+
+    position:absolute;
+
+}
+
+body {
+	background-color: rgb(243, 238, 234);
+}
+
+header:hover {
+   color: #00008b;
+}			
+
+#jcc {
+	letter-spacing: 0.6em; /*line spacing was defined specifically for #jcc id */
+}

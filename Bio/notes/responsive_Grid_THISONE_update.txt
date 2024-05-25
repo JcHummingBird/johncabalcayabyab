@@ -1,0 +1,50 @@
+
+<!DOCTYPE html>
+<html>
+<title>Biography of Surveillance Specialist John Cabal Cayabyab</title>
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<link rel="stylesheet" href="https://www.w3schools.com/w3css/4/w3.css">
+
+
+<body div class="w3-black">
+ 
+
+<div class="w3-bar w3-padding-16 w3-grey">
+  <a href="#" class="w3-bar-item w3-button w3-mobile">JOHN CAYABYAB</a>
+  <a href="#" class="w3-bar-item w3-right w3-button w3-mobile">VIEWPOINT_CHARITY</a>
+  <a href="#" class="w3-bar-item w3-right w3-button w3-mobile">PORTFOLIO</a>
+  <a href="#" class="w3-bar-item w3-right w3-button w3-mobile">CONTACT</a>
+  <a href="#" class="w3-bar-item w3-right w3-button w3-mobile">SURVEILLANCE_DIRECTORY</a>
+  <a href="#" class="w3-bar-item w3-right w3-button w3-mobile">HOME</a>
+</div>
+
+
+<div class="w3-container w3-dark-grey">
+<h3 class="w3-opacity">BIOGRAPHY</h3>
+</div>
+
+<!--remove w3-border so that there is no visible line -->
+<div class="w3-row">
+  <div class="w3-container w3-padding-64 w3-center w3-half">
+    <img src="https://scontent.xx.fbcdn.net/v/t1.15752-9/244699039_412962890171880_5534743643171862575_n.jpg?_nc_cat=111&ccb=1-5&_nc_sid=aee45a&_nc_ohc=IagyxZu2xJ8AX8nbr5M&_nc_ad=z-m&_nc_cid=0&_nc_ht=scontent.xx&oh=979a1c97674f4e946e14759669ddb9aa&oe=61889CA2" 
+class="w3-round w3-margin-left" alt="Profile Picture of John Cabal Cayabyab" style="width:90%">
+<!--to occupy the entire space, set img width to 100% -->
+<!--to use w3-panel to add 16px top and bottom margin and 16px left and right padding-->
+<!--w3-margin-left to move the image to the right-->
+
+  </div>
+  <div class="w3-container w3-padding-48 w3-half">
+        <p class="w3-opacity">  John is currently working as a Surveillance Supervisor at Marina Bay Sands Singapore beginning year 2011; held various casino operations role in several casinos : Star Cruises in Singapore, Legenda Subic in the Philippines, Genting Subic in the Philippines, Fontana Casino Clark in the  Philippines, Star Vegas in Cambodia, Subic Diamond Casino in the Philippines, MSPI in the Philippines, Venetian Resorts in Macau and Casino Lugano SA Casino Austria in Switzerland.<br><br>
+        
+
+        Worked at commercial banks in the Philippines with emphasis in audit, reconciliation and marketing.<br><br>
+ 
+
+        To stay relevant in the fast-paced trend in business, John is currently developing methods and re-inventing his style. When  he discovered I.T. job is a "rockstar job",  he began learning Web Development focusing on informational and marketing websites, diving deep in applications such as; HTML, CSS, W3-CSS, Bootstrap, JavaScript, jQuery, Python and SQL to equip himself.<br></p>
+      
+  </div>
+</div>
+
+
+</body>
+</html>       
